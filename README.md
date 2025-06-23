@@ -19,7 +19,7 @@ This project contains SQL scripts to set up and populate a basic e-commerce rela
 - orderitems  -> Stores individual items within an order 
 
 
-- Each product belongs to one category.
-- Each order is placed by one customer.
-- Each order can contain multiple products via `orderitems`.
-- Foreign keys ensure referential integrity between tables.
+      - Each product belongs to one category.
+      - Each order is placed by one customer.
+      - Each order can contain multiple products via `orderitems`.
+      - Foreign keys ensure referential integrity between tables.
