@@ -11,6 +11,8 @@ This project contains SQL scripts to set up and populate a basic e-commerce rela
   - Customers
   - Orders
   - Order Items
+
+## Key Concepts
  
 - categories  -> Stores product category names            
 - products    -> Stores product details and pricing          
